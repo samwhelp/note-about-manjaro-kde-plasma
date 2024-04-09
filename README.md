@@ -24,7 +24,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Manjaro Kde Plasma 24.04](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
+| [Manjaro Kde Plasma](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breath-Dark) |
 
 
 
