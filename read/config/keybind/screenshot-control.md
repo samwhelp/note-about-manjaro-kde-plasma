@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 螢幕截圖
 
-> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/note-about-manjaro-kde-plasma/tree/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main)
+> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/demo-config/keybind/demo-keybind-mode-dolphin)
 
 
 * [設定片段](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/blob/main/prototype/main/kde-config/locale/en_us/Breeze-Dark/asset/overlay/etc/skel/.config/kglobalshortcutsrc#L226-L234)

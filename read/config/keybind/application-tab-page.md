@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 應用程式切換 Tab Page
 
-> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/note-about-manjaro-kde-plasma/tree/gh-pages/_demo/prototype/de/kde-plasma/part/keybind/kde-plasma-keybind-main)
+> KDE Plasma Adjustment / [Keybind](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/demo-config/keybind/demo-keybind-mode-dolphin)
 
 
 | 按鍵組合          | 功能     |
