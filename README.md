@@ -26,7 +26,8 @@
 
 | 微調腳本 |
 | -------- |
-| [Manjaro Kde Plasma](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breath-Dark) |
+| [Manjaro Kde Plasma Config](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breath-Dark) |
+| [Tool Config](https://github.com/samwhelp/manjaro-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
