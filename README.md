@@ -17,7 +17,6 @@
 * [按鍵綁定](#按鍵綁定)
 * [佈景主題](#佈景主題)
 * [如何](#如何)
-* [工具](#工具)
 * [相關筆記](#相關筆記)
 
 
@@ -58,21 +57,6 @@
 | ------- |
 | [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/howto/config-mouse-button-modifier.html) |
 | [停用按鍵綁定「Super_L」開啟「Main Menu」](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/howto/disable-keybind-open-main-menu.html) |
-
-
-
-
-## 工具
-
-| [工具](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool.html) | [微調腳本](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/tool-config/part) | 分類 |
-| --- | --- | --- |
-| [krunner](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/launcher/krunner.html) | [微調腳本](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/tool-config/part/krunner) | [Launcher](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/launcher.html) |
-| [dolphin](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/file-manager/dolphin.html) | [微調腳本](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/tool-config/part/dolphin) | [File Manager](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/file-manager.html) |
-| [konsole](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/terminal/konsole.html) | [微調腳本](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/tool-config/part/konsole) | [Terminal](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/terminal.html) |
-| [yakuake](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/terminal/yakuake.html) | [微調腳本](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/tool-config/part/yakuake) | [Terminal](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/terminal.html) |
-| [kate](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/text-editor/kate.html) | [微調腳本](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/tool-config/part/kate) | [Text Editor](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/text-editor.html) |
-| [kwrite](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/text-editor/kwrite.html) | [微調腳本](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/tool-config/part/kwrite) | [Text Editor](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/text-editor.html) |
-| [gwenview](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/image-viewer/gwenview.html) | [微調腳本](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/tool-config/part/gwenview) | [Image Viewer](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/subject/tool/image-viewer.html) |
 
 
 
