@@ -9,6 +9,9 @@
 | [Manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/) | [GitHub](https://github.com/samwhelp/note-about-manjaro) |
 
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-manjaro-kde-plasma/read/cheatsheet/keybind.html)
+
+
 
 
 ## 主題
