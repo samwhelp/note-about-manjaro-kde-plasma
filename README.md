@@ -17,6 +17,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [相關資源](#相關資源)
 * [按鍵綁定](#按鍵綁定)
 * [如何](#如何)
 * [字型](#字型)
@@ -33,6 +34,19 @@
 | -------- |
 | [Manjaro Kde Plasma Config](https://github.com/samwhelp/manjaro-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breath-Dark) |
 | [Tool Config](https://github.com/samwhelp/manjaro-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## 相關資源
+
+| Kde Resource |
+| ------------ |
+| [kde-plasma-layout-templates](https://github.com/samwhelp/kde-plasma-layout-templates) |
+| [kde-plasma-look-and-feel](https://github.com/samwhelp/kde-plasma-look-and-feel) |
+| [kde-plasma-layout-switch](https://github.com/samwhelp/kde-plasma-layout-switch) |
+| [kde-plasma-style-switch](https://github.com/samwhelp/kde-plasma-style-switch) |
+| [kde-plasma-keybind-switch](https://github.com/samwhelp/kde-plasma-keybind-switch) |
 
 
 
@@ -91,14 +105,19 @@
 | [Kde 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde) |
 | [Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-kde-plasma) |
 | [Kde Neon 探索筆記](https://samwhelp.github.io/note-about-kde-neon/) | [GitHub](https://github.com/samwhelp/note-about-kde-neon) |
+
+
+| Link | GitHub |
+| ---- | ------ |
 | [Kubuntu 探索筆記](https://samwhelp.github.io/note-about-kubuntu/) | [GitHub](https://github.com/samwhelp/note-about-kubuntu) |
-| [Archlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-archlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-kde-plasma) |
-| [EndeavourOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-endeavouros-kde-plasma) |
-| [CachyOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-cachyos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-cachyos-kde-plasma) |
-| [Garuda Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-garuda-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-garuda-kde-plasma) |
-| [MxLinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-mxlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-kde-plasma) |
 | [Debian Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-debian-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-debian-kde-plasma) |
 | [Fedora Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-fedora-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-fedora-kde-plasma) |
+| [Archlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-archlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-kde-plasma) |
+| [Voidlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-voidlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-kde-plasma) |
+| [Solus Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-solus-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-solus-kde-plasma) |
+| [EndeavourOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-endeavouros-kde-plasma) |
+| [CachyOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-cachyos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-cachyos-kde-plasma) |
+| [MxLinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-mxlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-kde-plasma) |
 
 
 
